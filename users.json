@@ -1,0 +1,50 @@
+{
+    "24110261": {
+        "password": "24110261",
+        "name": "Trần Thu Phương",
+        "dob": "2006-05-12",
+        "email": "24110261@st.vju.ac.vn",
+        "phone": "0866541610",
+        "role": "Sinh viên"
+    },
+    "test_user": {
+        "password": "",
+        "name": "Trần Thu Phương",
+        "dob": "2025-05-06",
+        "email": "24110261@st.vju.ac.vn",
+        "phone": "0866541610",
+        "role": "Sinh viên"
+    },
+    "2411026": {
+        "password": "hgfyyg",
+        "name": "",
+        "dob": "2025-05-06",
+        "email": "ugyg@gmail.com",
+        "phone": "908886665",
+        "role": "Sinh viên"
+    },
+    "tranphuong": {
+        "password": "hjghfyugyu",
+        "name": "tranphuong",
+        "dob": "2005-05-12",
+        "email": "tttt@gmail.com",
+        "phone": "0876543289",
+        "role": "Sinh viên"
+    },
+    "2411034": {
+        "password": "24110261",
+        "name": "Trần Thu Phương",
+        "dob": "2006-05-12",
+        "email": "ttt@gmail.com",
+        "phone": "0855638373",
+        "role": "Sinh viên"
+    },
+    "TranPhuong": {
+        "password": "24110261",
+        "name": "",
+        "dob": "2025-05-06",
+        "email": "ttt@gmail.com",
+        "phone": "0866542355",
+        "role": "Sinh viên"
+    }
+}

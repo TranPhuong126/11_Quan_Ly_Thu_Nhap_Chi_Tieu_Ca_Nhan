@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "date": "2025-05-06",
+        "description": "Mua bánh mì ăn sáng",
+        "amount": 20000.0,
+        "type": "expense",
+        "category": "Ăn uống"
+    },
+    {
+        "id": 2,
+        "date": "2025-05-06",
+        "description": "Mua thêm cốc cafe",
+        "amount": 15000.0,
+        "type": "expense",
+        "category": "Ăn uống"
+    },
+    {
+        "id": 3,
+        "date": "2025-05-06",
+        "description": "Tiền xe bus lên trường",
+        "amount": 35000.0,
+        "type": "expense",
+        "category": "Đi lại"
+    },
+    {
+        "id": 4,
+        "date": "2025-05-06",
+        "description": "Cơm trưa",
+        "amount": 30000.0,
+        "type": "expense",
+        "category": "Ăn uống"
+    },
+    {
+        "id": 5,
+        "date": "2025-05-06",
+        "description": "Tham gia sự kiện trường",
+        "amount": 10000.0,
+        "type": "income",
+        "category": "Thưởng"
+    }
+]
