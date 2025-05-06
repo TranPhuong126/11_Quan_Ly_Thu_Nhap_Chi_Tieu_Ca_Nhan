@@ -19,7 +19,7 @@ Trần Thu Phương       _ 24110261
 Nguyễn Đức Anh        _ 24110334
 Phạm Ngọc Minh Anh    _ 24110353
 
-## 🛠 Công nghệ sử dụng
+## Công nghệ sử dụng
 
 - Ngôn ngữ: Python
 - Thư viện GUI: `tkinter`
