@@ -1,6 +1,6 @@
 # 11_Quan_Ly_Thu_Nhap_Chi_Tieu_Ca_Nhan
 
-## 📝 Giới thiệu đề tài
+## Giới thiệu đề tài
 
 Đây là một ứng dụng quản lý tài chính cá nhân, cho phép người dùng:
 - Đăng nhập tài khoản.
@@ -10,7 +10,7 @@
 
 Ứng dụng giúp sinh viên hoặc người đi làm có thể theo dõi dòng tiền hàng ngày dễ dàng hơn.
 
-## 👥 Nhóm thực hiện
+## Nhóm thực hiện
 
 - **Tên nhóm**: Nhóm 11
 - **Thành viên**:
@@ -26,7 +26,7 @@ Phạm Ngọc Minh Anh    _ 24110353
 - Lưu trữ dữ liệu: `json`
 - Các module tự viết: `Login.py`, `UserInfo.py`, `Gui.py`
 
-## 📂 Cấu trúc thư mục
+## Cấu trúc thư mục
 
 ├──_pycache              #thư viện```
 ├── Gui.py               # Giao diện chính của chương trình
@@ -38,7 +38,7 @@ Phạm Ngọc Minh Anh    _ 24110353
 └── LICENSE              # Giấy phép sử dụng (nếu có)
 ```
 
-## 🚀 Cách chạy ứng dụng
+## Cách chạy ứng dụng
 
 ### 1. Cài Python (nếu chưa có):
 - Tải tại: https://www.python.org/downloads/
@@ -58,19 +58,19 @@ cd Group11_Quan_Ly_Thu_Nhap_Chi_Tieu_Ca_Nhan
 python Gui.py
 ```
 
-> ⚠️ Lưu ý: Đảm bảo file `users.json` và `transactions.json` tồn tại trong thư mục gốc.
+> Lưu ý: Đảm bảo file `users.json` và `transactions.json` tồn tại trong thư mục gốc.
 
-## 💡 Tính năng chính
+## Tính năng chính
 
 - Đăng nhập tài khoản
 - Quản lý thông tin cá nhân
 - Thêm/sửa/xóa các khoản thu nhập hoặc chi tiêu.
 - Xuất dữ liệu sang định dạng CSV
 
-## 📌 Ghi chú
+## Ghi chú
 
 - Đây là sản phẩm thuộc môn học LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG.
 
-## 📄 Giấy phép
+## Giấy phép
 
 MIT License – tự do sử dụng và chỉnh sửa cho mục đích học tập.
